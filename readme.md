@@ -4,7 +4,7 @@
 
 <i>it will show you how to drag and drop elements in JavaScript. This is a very popular element in building many JavaScript projects<i>
   
-<p>In addition to this, we will also be practising using inbuilt methods such as:</p>
+<p>In addition to this, we will also be practising using inbuilt methods such as</p>
 <ul>
   <li>addEventListener()</li>
   <li>setAttribute()</li>
